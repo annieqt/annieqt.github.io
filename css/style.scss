@@ -12,7 +12,7 @@ $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:     10px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
@@ -324,7 +324,7 @@ pre {
 
 .post {
   font-family: "Source Sans Pro";
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 300;
   padding-top: 0;
 }
@@ -373,7 +373,7 @@ pre {
 }
 .postContent {
   padding-top: 3.5em;
-  text-align: center;
+  /*text-align: center;*/
 }
 .postDate {
   float: left;
@@ -388,11 +388,13 @@ pre {
   float: right;
 }
 .postTitle {
+  font-size: 20px;
   font-weight: 400;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 3px;
   text-indent: 3px;
+  margin: 3px;
 }
 /**
  * Site header
@@ -615,7 +617,7 @@ pre {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
   p {
-    font-size: 1.5rem;
+    /*font-size: 1.5rem;*/
   }
   h2 {
     font-size: 32px;
