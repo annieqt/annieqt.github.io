@@ -1,0 +1,38 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Tian's blog
+email: annieqtwt@gmail.com
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://tianwang.gift" # the base hostname & protocol for your site
+twitter_username: annieqt
+github_username:  annieqt
+paginate: 3
+
+# Navigation settings
+nav:
+  archive_url: /archive/
+  photo_url: /photo/
+  about_url: /about/
+
+# Author settings
+author:
+  name      : Tian
+  job       : Student in Computer Science
+  thumb     : /images/author.jpg
+  email     : nandomoreira.me@gmail.com
+  github    : http://github.com/annieqt
+  zhihu     : https://www.zhihu.com/people/annieqt
+  facebook  : https://www.facebook.com/tian.wang.3532
+  linkedin  : 
+  
+gems: [jekyll-paginate, kramdown]
+
+# Build settings
+markdown: kramdown
