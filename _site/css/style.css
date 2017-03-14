@@ -153,6 +153,30 @@ pre {
       padding-left: 5px; } }
 
 /**
+ * Wall for photos
+ */
+.wall {
+  max-width: -webkit-calc(1000px - (10px * 2));
+  max-width: calc(1000px - (10px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 10px;
+  padding-left: 10px; }
+  @media screen and (max-width: 800px) {
+    .wall {
+      max-width: -webkit-calc(1000px - (10px));
+      max-width: calc(1000px - (10px));
+      padding-right: 5px;
+      padding-left: 5px; } }
+
+/**
+ * ThumbNails
+ */
+.tn {
+  margin-bottom: 2.5px;
+  margin-top: 2.5px; }
+
+/**
  * Archive
  */
 .archiveContent {
@@ -178,7 +202,7 @@ pre {
 /**
  * Clearfix
  */
-.wrapper:after, .footer-col-wrapper:after {
+.wrapper:after, .wall:after, .footer-col-wrapper:after {
   content: "";
   display: table;
   clear: both; }

@@ -14,8 +14,10 @@ $base-line-height: 1.5;
 
 $spacing-unit:     10px;
 
+//light
 $text-color:       #111;
 $background-color: #fdfdfd;
+
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
@@ -24,10 +26,13 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
-
+$wall-width:       1000px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+//dark
+//$text-color:       $grey-color;
+//$background-color: #333;
 
 
 // Use media queries like this:
@@ -268,6 +273,34 @@ pre {
     }
 }
 
+/**
+ * Wall for photos
+ */
+.wall {
+    max-width: -webkit-calc(#{$wall-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$wall-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$wall-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$wall-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+
+/**
+ * ThumbNails
+ */
+.tn{
+  margin-bottom: 2.5px;
+  margin-top:    2.5px;
+}
 
 /**
  * Archive

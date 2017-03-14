@@ -4,17 +4,11 @@ layout: page
 
 
 {% for post in site.posts %}
-{% for cat in post.categories %}
 <div class="archiveContent">
   <div class="archivePostDate">
   <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
   <a class='archive_title archivePostTitle' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
   </div>
-  <!-- <div class="postTitle">
-  <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-  </div> -->
   <br>
 </div>
-{% endfor %}
-
 {% endfor %}

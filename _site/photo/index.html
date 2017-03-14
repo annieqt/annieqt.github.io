@@ -11,21 +11,24 @@
   
   <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Source+Sans+Pro:400,700,200,300|Josefin+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
-
+  <link type="text/css" rel="stylesheet" href="/css/lightgallery.css" /> 
   <link rel="stylesheet" href="/css/style.css">
   <link rel="canonical" href="http://localhost:4000/photo/">
   <link rel="alternate" type="application/rss+xml" title="Tian's blog" href="http://localhost:4000/feed.xml">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 </head>
 
 
   <body>
-
+    <script src="/js/lightgallery.min.js"></script>
+    <script src="/js/lg-thumbnail.min.js"></script>
     
 <div class="wrapper">
   
     
   <center> 
-  <img src="/images/author.jpg" alt="author thumb" class="avatar">
+  <img src="/img/author.jpg" alt="author thumb" class="avatar">
 	<a href="/index.html"><div class="site-title">  
   	 Tian's blog 
   	 </div></a>
@@ -54,21 +57,130 @@
 </script>
 
     <div class="page-content">
-      <div class="wrapper">
-        <article class="post">
+      <div class="wall">
+        <div id="aniimated-thumbnials">
 
-  <header class="post-header">
-  <!--  <h1 class="post-title">Photo</h1>-->
-  </header>
-
+   <a href="/gallery/34.jpg">
+      <img class="tn" src="/gallery/tn/34_tn.jpg" />
+  </a>
   
+   <a href="/gallery/32.jpg">
+      <img class="tn" src="/gallery/tn/32_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/35.jpg">
+      <img class="tn" src="/gallery/tn/35_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/24.jpg">
+      <img class="tn" src="/gallery/tn/24_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/26.jpg">
+      <img class="tn" src="/gallery/tn/26_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/27.jpg">
+      <img class="tn" src="/gallery/tn/27_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/25.jpg">
+      <img class="tn" src="/gallery/tn/25_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/19.jpg">
+      <img class="tn" src="/gallery/tn/19_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/18.jpg">
+      <img class="tn" src="/gallery/tn/18_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/23.jpg">
+      <img class="tn" src="/gallery/tn/23_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/17.jpg">
+      <img class="tn" src="/gallery/tn/17_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/16.jpg">
+      <img class="tn" src="/gallery/tn/16_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/20.jpg">
+      <img class="tn" src="/gallery/tn/20_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/1.jpg">
+      <img class="tn" src="/gallery/tn/1_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/2.jpg">
+      <img class="tn" src="/gallery/tn/2_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/3.jpg">
+      <img class="tn" src="/gallery/tn/3_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/4.jpg">
+      <img class="tn" src="/gallery/tn/4_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/14.jpg">
+      <img class="tn" src="/gallery/tn/14_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/5.jpg">
+      <img class="tn" src="/gallery/tn/5_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/6.jpg">
+      <img class="tn" src="/gallery/tn/6_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/7.jpg">
+      <img class="tn" src="/gallery/tn/7_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/8.jpg">
+      <img class="tn" src="/gallery/tn/8_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/9.jpg">
+      <img class="tn" src="/gallery/tn/9_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/10.jpg">
+      <img class="tn" src="/gallery/tn/10_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/11.jpg">
+      <img class="tn" src="/gallery/tn/11_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/12.jpg">
+      <img class="tn" src="/gallery/tn/12_tn.jpg" />
+  </a>
+  
+   <a href="/gallery/13.jpg">
+      <img class="tn" src="/gallery/tn/13_tn.jpg" />
+  </a>
+  
+</div>
 
-  <div class="post-content">
-    
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#lightgallery").lightGallery(); 
+    });
 
-  </div>
+    $('#aniimated-thumbnials').lightGallery({
+	    thumbnail:true,
+	    thumbContHeight:120
+	}); 
+</script>
 
-</article>
 
       </div>
     </div>
