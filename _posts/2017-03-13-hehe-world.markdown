@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HeHe World"
-date:   2017-03-11 19:45:31 +0530
+date:   2017-03-13 13:45:31 +0530
 categories: ["tech"]
 ---
 
@@ -13,6 +13,6 @@ Jekyll很好用啊，还有一堆免费又漂亮的模板，直接下载下来�
 
 * About，感觉这东西和论文的introduction一样难写
 * Photo Gallery
-* Archive 样式重写
+* ~~Archive 样式重写~~
 * 评论功能
 * 友链友链~想要友链~好像回到了十几年前玩bbs的时候hiahia

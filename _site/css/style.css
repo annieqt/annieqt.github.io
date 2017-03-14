@@ -98,6 +98,8 @@ a {
       border-bottom: 1px dotted black !important; }
     a.post-title-link:visited {
       color: "crimson" !important; }
+  a.archive_title {
+    color: #424242 !important; }
 
 /**
  * Blockquotes
