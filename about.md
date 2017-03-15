@@ -14,6 +14,8 @@ permalink: /about/
 	    <li><a class="zhihu" target="_blank" href="http://www.zhihu.com/people/annieqt"><i
 	        class="fd icon-zhihu-square"></i></a>
 	    </li>
+	    <li><a class="weibo" target="_blank" href="http://weibo.com/u/1320541007"><i class="fa fa-weibo"></i></a>
+        </li>
 	    <li><a class="github" target="_blank" href="https://github.com/annieqt"><i class="fa fa-github glyph"></i></a>
 	    </li>
 	    <li><a class="leetcode" target="_blank" href="https://discuss.leetcode.com/user/annieqt">
