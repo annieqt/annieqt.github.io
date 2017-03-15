@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Mar 2017 13:41:01 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Mar 2017 13:41:01 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Mar 2017 16:47:26 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Mar 2017 16:47:26 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -18,10 +18,10 @@
 &lt;p&gt;接下来再把之前的东西迁移一部分过来就差不多OK了。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;About，感觉这东西和论文的introduction一样难写&lt;/li&gt;
-  &lt;li&gt;Photo Gallery&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Archive 样式重写&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;评论功能，用了disqus，但是不翻墙访问的话就加载不出来@@&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;About。感觉这东西和论文的introduction一样难写&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Photo Gallery。&lt;/del&gt;感谢boci帮我debug. ww&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Archive 样式重写。&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;评论功能。&lt;/del&gt;用了disqus，但是不翻墙访问的话就加载不出来@@&lt;/li&gt;
   &lt;li&gt;友链友链~想要友链~好像回到了十几年前玩bbs的时候hiahia&lt;/li&gt;
 &lt;/ul&gt;
 </description>
