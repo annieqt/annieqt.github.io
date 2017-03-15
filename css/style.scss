@@ -352,6 +352,9 @@ pre {
     color: #FFFFFF;
 }
 
+.center {
+    text-align: center;
+}
 /**
  * Archive
  */
@@ -726,6 +729,85 @@ pre {
       font-size: 18px;
     }
   }
+}
+
+/**
+ * Social
+ */
+
+.social {
+    padding: 0;
+    margin: 2em 0;
+    list-style: none;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.social li {
+    display: inline-block;
+    padding: 0;
+    margin-bottom: 3px;
+}
+
+.social li a {
+    border-radius: 50%;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    opacity: .9;
+    display: block;
+    font-family: 'fontello'; /*todo*/
+    font-size: 15px;
+    height: 36px;
+    width: 36px;
+    line-height: 34px;
+    margin: 0 0.1em 0.2em 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* social icon hovers */
+.fa, .fd {
+  color:white;
+}
+
+.social li a.facebook {
+    background-color: #3c5fac;
+}
+
+.social li a.linkedin {
+    background-color: #2089b5;
+}
+
+.social li a.google {
+    background-color: #c63d2d;
+}
+
+.social li a.github {
+    background-color: #000000;
+}
+
+.social li a.leetcode {
+    background-color: #FA953C;
+}
+
+.social li a.instagram {
+    background-color: #3f729b;
+}
+
+.social li a.leetcode {
+    background-color: #FA953C;
+}
+
+.social li a.zhihu {
+    background-color: #2178EB;
+}
+
+.social li a.douban {
+    background-color: #00A321;
+}
+
+.social li:hover {
+    opacity: 0.8;
 }
 
 /**

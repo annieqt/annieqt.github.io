@@ -78,7 +78,7 @@ images:
   - show: true
     image_path: /gallery/19.jpg
     tn_path: /gallery/tn/19_tn.jpg
-    title: A <br> leisurely afternoon
+    title: A leisurely afternoon
     short_loc: HongKong, China
     loc: Stanley Market, HongKong, China
   - show: true
@@ -120,7 +120,7 @@ images:
   - show: true
     image_path: /gallery/2.jpg
     tn_path: /gallery/tn/2_tn.jpg
-    title: You said <br> you're waiting for a heavy rain
+    title: You said you're waiting for a heavy rain
     short_loc: Nanjing, China
     loc: Nanjing University, Nanjing, China
   - show: true
@@ -196,7 +196,10 @@ images:
     short_loc: Beijing, China
     loc: Laker's, Beijing, China
 ---
-
+<div class = "center">
+    A Big Fan of iPhoneography. 
+</div>
+<br>
 <div class = "photo-gallery" id="animated-thumbnials">
 	{% for image in page.images %}
 		{% if image.show %}
