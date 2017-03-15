@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Mar 2017 21:16:45 +0800</pubDate>
-    <lastBuildDate>Tue, 14 Mar 2017 21:16:45 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Mar 2017 13:41:01 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Mar 2017 13:41:01 +0800</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -28,31 +28,6 @@
         <pubDate>Mon, 13 Mar 2017 16:15:31 +0800</pubDate>
         <link>http://localhost:4000/misc/2017/03/13/hehe-world.html</link>
         <guid isPermaLink="true">http://localhost:4000/misc/2017/03/13/hehe-world.html</guid>
-        
-        
-        <category>misc</category>
-        
-      </item>
-    
-      <item>
-        <title>HeHe World</title>
-        <description>&lt;p&gt;闲的没事给自己的域名续了一年，之前的about me页面丑的不忍直视，遂决定重新搞个博客玩玩。&lt;/p&gt;
-
-&lt;p&gt;Jekyll很好用啊，还有一堆免费又漂亮的模板，直接下载下来再随便改改CSS就能用啦。哎自己好懒好废啊╮(╯▽╰)╭~&lt;/p&gt;
-
-&lt;p&gt;接下来再把之前的东西迁移一部分过来就差不多OK了。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;About，感觉这东西和论文的introduction一样难写&lt;/li&gt;
-  &lt;li&gt;Photo Gallery&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Archive 样式重写&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;评论功能，用了disqus，但是不翻墙访问的话就加载不出来@@&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;友链友链~想要友链~好像回到了十几年前玩bbs的时候hiahia&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 13 Mar 2017 16:15:31 +0800</pubDate>
-        <link>http://localhost:4000/misc/2017/03/13/hehe-world-copy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/misc/2017/03/13/hehe-world-copy.html</guid>
         
         
         <category>misc</category>

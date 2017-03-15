@@ -113,12 +113,17 @@ images:
     loc: Laker's, Beijing, China
 ---
 
-<div id="aniimated-thumbnials">
-{% for image in page.images %}
-   <a href="{{ image.image_path }}">
-      <img class= "tn" src="{{ image.tn_path }}" />
-  </a>
-  {% endfor %}
+<div class = "photo-gallery" id="aniimated-thumbnials">
+	{% for image in page.images %}
+	<div>
+		   <a href="{{ image.image_path }}" data-sub-html="<h4>{{image.title}}<h4><p>{{image.loc}}</p>">
+		      <img src="{{ image.tn_path }}"/>
+		      <div class="overlay">
+		            <h2>{{image.title}}</h2>
+		      </div>
+		  </a>
+	</div>
+  	{% endfor %}
 </div>
 
 
@@ -128,7 +133,6 @@ images:
     });
 
     $('#aniimated-thumbnials').lightGallery({
-	    thumbnail:true,
-	    thumbContHeight:120
+	    thumbnail:true
 	}); 
 </script>
