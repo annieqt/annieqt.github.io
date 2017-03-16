@@ -19,7 +19,7 @@ Jay Chou | Linkin Park | Radiohead | Coldplay | Evanescence | Keane | Jason Mraz
 
 <br>
 # iPhoneography | 摄影
-Big Fan of iPhoneography  
+Fan of iPhoneography  
 Telling stories with photos 每张照片都有一个故事。持续更新中
 
 
