@@ -15,12 +15,12 @@ Interested in Distributed Systems and Networks
 <br>
 # Music & Bands | 音乐 
 Die-Hard Music Lover  
-Jay Chou | Linkin Park | Radiohead | Coldplay | Evanescence | Keane | Jason Mraz | Muse | Budapest | Travis | Thirteen Senses | Eminem | NightWish | Oasis | Nirvana | HIM 同样喜欢他们的你运气不会太差
+Jay Chou | Linkin Park | Radiohead | Coldplay | Evanescence | Keane | Jason Mraz | Muse | Budapest | Travis | Thirteen Senses | Eminem | NightWish | Oasis | Nirvana | HIM 
 
 <br>
 # iPhoneography | 摄影
 Big Fan of iPhoneography  
-Telling stories with photos
+Telling stories with photos 每张照片都有一个故事。持续更新中
 
 
 <br>
