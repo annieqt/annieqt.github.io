@@ -196,32 +196,26 @@ images:
     short_loc: Beijing, China
     loc: Laker's, Beijing, China
 ---
-<div class = "center">
-    A Big Fan of iPhoneography. 
-</div>
-<br>
 <div class = "photo-gallery" id="animated-thumbnials">
 	{% for image in page.images %}
 		{% if image.show %}
-			<!-- <div> -->
 				   <a href="{{ image.image_path }}" data-sub-html="<h4>{{image.title}}<h4><p>{{image.loc}}</p>">
-				      <img src="{{ image.tn_path }}"/>
-				      <!-- <div class="overlay">
-				            <h2>{{image.title}}</h2>
-				            <p>{{image.short_loc}}</p>
-				      </div> -->
+                       <div>
+    				      <img src="{{ image.tn_path }}"/>
+    				      <div class="overlay">
+    				            <h2>{{image.title}}</h2>
+    				            <p>{{image.short_loc}}</p>
+    				      </div>
+                        </div>
 				  </a>
-			<!-- </div> -->
 		{% endif %}
   	{% endfor %}
 </div>
 
 <script type="text/javascript">
     $(document).ready(function() {
-        $("#lightgallery").lightGallery(); 
+        $("#animated-thumbnials").lightGallery({
+            thumbnail:true
+        });
     });
-
-    $('#animated-thumbnials').lightGallery({
-	    thumbnail:true
-	}); 
 </script>

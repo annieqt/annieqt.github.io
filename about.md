@@ -3,6 +3,33 @@ layout: page
 title : About
 permalink: /about/
 ---
+# Author | 我 
+Tian Wang | annieqt | 晴天 | 仰望ぜ晴天  
+Identify me by the Red Cat! 看见红猫那就是我w  
+
+<br>
+# Code | 码
+SE@NJU --> SE@THU  
+Interested in Distributed Systems and Networks
+
+<br>
+# Music & Bands | 音乐 
+Die-Hard Music Lover  
+Jay Chou | Linkin Park | Radiohead | Coldplay | Evanescence | Keane | Jason Mraz | Muse | Budapest | Travis | Thirteen Senses | Eminem | NightWish | Oasis | Nirvana | HIM 同样喜欢他们的你运气不会太差
+
+<br>
+# iPhoneography | 摄影
+Big Fan of iPhoneography  
+Telling stories with photos
+
+
+<br>
+# Food | 食物  
+Serious Foodie (๑´ڡ`๑)   
+Enjoy writting food reviews on <a class="dianping" href="http://www.dianping.com/member/44509194"><i class="fd icon-dianping"></i></a>. To be a better Dianpinger!  
+
+<br>
+# SNS | 社交网站
 <div>
 	<ul class="social">
 	    <li><a class="facebook" target="_blank" href="https://www.facebook.com/tian.wang.3532"><i
@@ -23,6 +50,13 @@ permalink: /about/
 	    </li>
 	</ul>
 </div>
+
+<br>
+# Friend Links | 友情链接  
+Adorable Boci : [(๑•́ ₃ •̀๑)] [1]
+
+[1]:http://bichengluo.me
+<br>
 
 
 <div>

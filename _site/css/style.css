@@ -172,7 +172,7 @@ pre {
   transform: scale(1.1);
   transition: all 0.4s ease-out 0s; }
 
-.photo-gallery div {
+.photo-gallery a div {
   display: inline-block;
   overflow: hidden;
   height: 160px;
@@ -239,7 +239,7 @@ pre {
 .archivePostDate {
   float: left;
   text-transform: uppercase;
-  font-family: "Source Sans Pro";
+  font-family: "PT Sans";
   font-size: 16px;
   font-weight: 300;
   letter-spacing: 2px;
@@ -265,7 +265,7 @@ pre {
     fill: #828282; }
 
 .post {
-  font-family: "Source Sans Pro";
+  font-family: "PT Sans";
   font-size: 15px;
   font-weight: 300;
   padding-top: 0; }
@@ -320,9 +320,9 @@ pre {
 .postDate {
   float: left;
   text-transform: uppercase;
-  font-family: "Source Sans Pro";
+  font-family: "PT Sans";
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 200;
   letter-spacing: 2px;
   text-indent: 2px; }
 
@@ -559,16 +559,14 @@ pre {
  * Social
  */
 .social {
+  display: inline;
   padding: 0;
   margin: 2em 0;
-  list-style: none;
-  text-align: center;
-  margin-top: 30px; }
+  list-style: none; }
 
 .social li {
   display: inline-block;
-  padding: 0;
-  margin-bottom: 3px; }
+  padding: 0; }
 
 .social li a {
   border-radius: 50%;
@@ -612,13 +610,16 @@ pre {
   background-color: #3f729b; }
 
 .social li a.leetcode {
-  background-color: #FA953C; }
+  background-color: #f0ad4e; }
 
 .social li a.zhihu {
   background-color: #2178EB; }
 
 .social li a.douban {
   background-color: #00A321; }
+
+.icon-dianping {
+  color: #ff7200; }
 
 .social li:hover {
   opacity: 0.8; }
