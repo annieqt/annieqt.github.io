@@ -7,7 +7,7 @@ images:
     image_path: /gallery/36.jpg
     tn_path: /gallery/tn/36_tn.jpg
     title: Farewell to Shanghai
-    desc: 在嘉里城的最后一天，去全家买早餐的少年们的背影。这两个月，从夏入秋，大楼里的空调开始冻的人瑟瑟发抖。对上海说再见。
+    desc: 在嘉里城的最后一天，从班车上下来，去全家买早餐的少年们。两个月的时间，从夏入秋，大楼里的空调开始冻的人瑟瑟发抖。对上海说再见。
     short_loc: Shanghai, China
     loc: Kerry Parkside, Shanghai, China
   - show: true
@@ -63,7 +63,7 @@ images:
     image_path: /gallery/12.jpg
     tn_path: /gallery/tn/12_tn.jpg
     title: A Fresh Morning
-    desc: 彼时我还是一个能坐通宵硬座火车一个人背着巨大的包还能活蹦乱跳暴走一天的人。火车到达墨尔本的时候不到7点，Yarra River附近还基本没人，把手机放在台阶上自拍了一张，然后前往联邦广场。
+    desc: 彼时我还是一个能坐通宵硬座火车背着巨大的包还能活蹦乱跳暴走一天的人。火车到达墨尔本的时候不到7点，Yarra River附近还基本没人，把手机放在台阶上自拍了一张，然后前往联邦广场。
     short_loc: Melbourne, Australia
     loc: Yarra River, Melbourne, Australia
   - show: true
@@ -105,7 +105,7 @@ images:
     image_path: /gallery/19.jpg
     tn_path: /gallery/tn/19_tn.jpg
     title: A leisurely afternoon
-    desc: 15年暑假为期两周的港澳研究。参观完赤柱监狱 (Stanley Prison)，老师带大家去到附近的Stanley Market看海和逛街。
+    desc: 15年暑假为期两周的港澳研究。参观完赤柱监狱 (Stanley Prison)，老师带大家去到附近的Stanley Market看海和逛街，碰上街头色彩碰撞的一幕。
     short_loc: HongKong, China
     loc: Stanley Market, HongKong, China
   - show: true
