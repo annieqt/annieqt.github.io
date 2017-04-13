@@ -16,6 +16,6 @@ Click on a photo and read the story behind!
 
 [1]: http://tianwang.gift
 
-[article]: ./preview/4.png
-[photo]: ./preview/2.png
-[detail]: ./preview/3.png
+[article]: ./preview/1.jpg
+[photo]: ./preview/2.jpg
+[detail]: ./preview/3.jpg
