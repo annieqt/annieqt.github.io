@@ -11,7 +11,7 @@ I write about many things.
 I share interesting photos taken by my iPhone.
 ![][photo]
 
-Click on photos to read the story behind!  
+Click on a photo and read the story behind!  
 ![][detail]
 
 [1]: http://tianwang.gift
