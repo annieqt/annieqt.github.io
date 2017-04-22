@@ -1,10 +1,11 @@
 # Tian's Blog
 
-This is my personal blog. You can visit it [here][1]!
+This is my personal blog. You can visit it [here][1]!  
+
 The site is powered by Disqus. Feel free to leave any suggestions! :-)
 
 ### Posts
-I write about many things.  
+I write about my daily life(in Chinese :P).  
 ![][article]
 
 ### Photos
@@ -16,6 +17,6 @@ Click on a photo and read the story behind!
 
 [1]: http://tianwang.gift
 
-[article]: ./preview/4.png
-[photo]: ./preview/2.png
-[detail]: ./preview/3.png
+[article]: ./preview/1.jpg
+[photo]: ./preview/2.jpg
+[detail]: ./preview/3.jpg

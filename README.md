@@ -5,7 +5,7 @@ This is my personal blog. You can visit it [here][1]!
 The site is powered by Disqus. Feel free to leave any suggestions! :-)
 
 ### Posts
-I write about my daily life.  
+I write about my daily life(in Chinese :P).  
 ![][article]
 
 ### Photos
