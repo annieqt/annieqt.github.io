@@ -9,13 +9,13 @@ Identify me by the Red Cat! 看见红猫那就是我w
 
 <br>
 # Code | 码
-SE@NJU --> SE@THU  
+SE@NJU --> SE@THU --> CS@Yale
 Interested in Distributed Systems and Networks
 
 <br>
 # Music & Bands | 音乐 
 Die-Hard Music Lover  
-Jay Chou | Linkin Park | Radiohead | Coldplay | Evanescence | Keane | Jason Mraz | Muse | Budapest | Travis | Thirteen Senses | Eminem | NightWish | Oasis | Nirvana | HIM 
+Jay Chou | Linkin Park | Radiohead | Coldplay | Evanescence | Keane | Jason Mraz | Muse | Budapest | Travis | Thirteen Senses | Eminem | NightWish | Oasis | Nirvana | HIM  
 
 <br>
 # iPhoneography | 摄影
