@@ -24,7 +24,7 @@ categories: ["misc"]
 # 申请结果  
 Accept: CS MS@Yale  
 
-AD: CS MS@Yale, SE MS @CMU SV, MCS@UIUC, CS MS@UT-Austin, CS MS@UW-Madison, CS MS@Columbia, MCS@Rice, CS MS@UCSB  
+AD: CS MS@Yale, SE MS @CMU SV, MCS@UIUC, CS MS@UT-Austin, CS MS@UW-Madison, CS MS@Columbia, MCS@Rice, CS MS@UCSB, CS MS@USC(Spring)  
 
 小奖: MSIT-MOB@CMU INI(15,300$), CS MS@Dartmouth(免除25%学费)  
 
@@ -32,7 +32,6 @@ Offer: CS PhD@WUSTL(2,9000$/y \* 6)
 
 Reject: ECE MS@UIUC, CS MS@Gatech, CS MENG@Cornell, CS MS@UCI, CS MS@Purdue, CS MS@UCSD   
 
-Pending: CS MS@USC
 
 <br>
 # 申请经验
@@ -81,7 +80,7 @@ UCI: 还我血汗钱！网申系统渣，小米渣，要寄纸质成绩单，bar
 
 Purdue: 也是一个招人少的学校，bar也挺迷的，忽略之。
 
-USC: 还我血汗钱！也是要寄纸质成绩单的一家，结果到了五月中了ad拒信啥都没有一个。= =今年好像ad发的没有以前多。它家虽然一直是大家口中的保底校，不过综合评估还是不错的，在湾区校友超多，找工作嘛，牛人自然是能找好的。
+USC: 还我血汗钱！也是要寄纸质成绩单的一家，结果到了五月中了ad拒信啥都没有一个。(补充：5.25发来了Spring AD..)= =今年好像ad发的没有以前多。它家虽然一直是大家口中的保底校，不过综合评估还是不错的，在湾区校友超多，找工作嘛，牛人自然是能找好的。
 
 <br>
 #### 英语考试
