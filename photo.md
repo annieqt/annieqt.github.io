@@ -4,6 +4,34 @@ title: Photo
 permalink: /photo/
 images:
   - show: true
+    image_path: /gallery/45.jpg
+    tn_path: /gallery/tn/45_tn.jpg
+    title: Last Night in Dorm
+    desc: 离校前在宿舍的最后一晚，一个人缩在凳子上听完了Live at Glastonbury。Fake Plastic Tree，If I Could Be Who You Wanted, Thom Yorke的表情让人心碎。
+    short_loc: Beijing, China
+    loc: Tsinghua University, Beijing, China
+  - show: true
+    image_path: /gallery/44.jpg
+    tn_path: /gallery/tn/44_tn.jpg
+    title: Commencement Ceremony
+    desc: 毕业典礼，2017的硕士生毕业纪念徽章，在清华的三年结束了。
+    short_loc: Beijing, China
+    loc: Tsinghua University, Beijing, China
+  - show: true
+    image_path: /gallery/46.jpg
+    tn_path: /gallery/tn/46_tn.jpg
+    title: Hotpot Lovers
+    desc: 超级丰富的双人火锅，鲜辣可口的红锅和香甜的番茄木瓜锅，滚烫酥脆的现炸酥肉，精致的小份毛肚黄喉和鸭肠。
+    short_loc: Beijing, China
+    loc: Chengdu Family, Shanghai, China
+  - show: true
+    image_path: /gallery/47.jpg
+    tn_path: /gallery/tn/47_tn.jpg
+    title: Mochtar Riady Library
+    desc: 离校最后一天办手续满校园跑，路过李文正馆，才第一次进去参观。恋恋不舍的走过每一层，下次再回来就是校友了。
+    short_loc: Beijing, China
+    loc: Tsinghua University, Beijing, China
+  - show: true
     image_path: /gallery/36.jpg
     tn_path: /gallery/tn/36_tn.jpg
     title: Farewell to Shanghai
