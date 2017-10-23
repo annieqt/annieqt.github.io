@@ -7,7 +7,7 @@ images:
     image_path: /gallery/45.jpg
     tn_path: /gallery/tn/45_tn.jpg
     title: Last Night in Dorm
-    desc: 离校前在宿舍的最后一晚，一个人缩在凳子上听完了Live at Glastonbury。Fake Plastic Tree，If I Could Be Who You Wanted, Thom Yorke的表情让人心碎。
+    desc: 离校前在宿舍的最后一晚，一个人缩在凳子上听完了Live at Glastonbury。If I Could Be Who You Wanted, Thom的表情让人心碎。
     short_loc: Beijing, China
     loc: Tsinghua University, Beijing, China
   - show: true
@@ -154,7 +154,7 @@ images:
     image_path: /gallery/16.jpg
     tn_path: /gallery/tn/16_tn.jpg
     title: An Heart-shaped Tree
-    desc: 澳门科技馆门口的心形树。大家排着队拍照，我哼起了那首Heart-Shaped Box - She eyes me like a Pisces when I am weak.  Forever in debt to your priceless advice. XD
+    desc: 澳门科技馆门口的心形树。大家排着队拍照，我哼起了Heart-Shaped Box - She eyes me like a Pisces when I am weak.  Forever in debt to your priceless advice. XD
     short_loc: Macau, China
     loc: Macau Science Center, Macau, China
   - show: true
