@@ -4,7 +4,7 @@ title : About
 permalink: /about/
 ---
 # Author | 我 
-Tian Wang | annieqt | 晴天 | 仰望ぜ晴天  
+Tian Wang | 晴天 | 仰望ぜ晴天  
 Identify me by the Red Cat! 看见红猫那就是我w  
 
 <br>
