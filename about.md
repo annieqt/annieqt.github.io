@@ -10,7 +10,6 @@ Identify me by the Red Cat! 看见红猫那就是我w
 <br>
 # Code | 码
 SE@NJU --> SE@THU --> CS@Yale
-Interested in Distributed Systems and Networks
 
 <br>
 # Music & Bands | 音乐 
@@ -38,7 +37,7 @@ Enjoy writting food reviews on <a class="dianping" href="http://www.dianping.com
 	    <li><a class="zhihu" target="_blank" href="http://www.zhihu.com/people/annieqt"><i
 	        class="fd icon-zhihu-square"></i></a>
 	    </li>	 
-	    <li><a class="wangyiyunyinyue" target="_blank" href="http://www.douban.com/people/annieqt/"><i
+	    <li><a class="wangyiyunyinyue" target="_blank" href="https://music.163.com/#/user/home?id=52467665"><i
 	        class="fd icon-wangyiyunyinyue"></i></a>
 	    </li> 
 	    <li><a class="github" target="_blank" href="https://github.com/annieqt"><i class="fa fa-github glyph"></i></a>
