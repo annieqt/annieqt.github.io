@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tianwang.gift" # the base hostname & protocol for your site
 twitter_username: annieqt
 github_username:  annieqt
-paginate: 3
+paginate: 10
 
 # Navigation settings
 nav:
