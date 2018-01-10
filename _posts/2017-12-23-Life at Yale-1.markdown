@@ -14,6 +14,14 @@ categories: ["misc"]
 * 一路辗转到达纽黑文；住进HHH，添置各种必需物品，小屋有模有样；
 * 逼自己参加了一系列学校安排的开学尬聊活动，徒劳；走出comfort zone失败，内向者在美帝没法活
 
+![][first]  
+
+<center>入住HHH第一天拿到的各种小纪念品 & GSAS Orientation尬聊</center>
+
+
+![][tower]  
+
+<center>New Haven的夏季</center>
 
 <br>
 ### 九月
@@ -24,6 +32,14 @@ categories: ["misc"]
 * 认识了大淇，在她的带领下HHH几个小伙伴们组成了有爱的找工/学习/吐槽/桌上暴力足球/浅色床单痛哭/熊猫头绿帽表情包小组，常驻HLH17，成立至今 XD
 
 
+![][resume]
+
+<center>Career Fair前打印了厚厚一叠简历</center>
+
+
+![][bkl]
+
+<center>Berkeley的午餐</center>
 
 <br>
 ### 十月
@@ -31,10 +47,20 @@ categories: ["misc"]
 * 进入找工季初期：以两个on campus面试开头，easy题写了一堆bug；结果当然挂，备受打击；
 * （天崩地裂？）亚麻freeze new grad hire，找工形势严峻，开始在linkedin上各种求内推，世上还是好人多；海投了一堆简历，但因为自己太渣没敢投FLAG(SB了吧)；做了一堆OA和电面，每天在赶due/刷面经/预习midterm中切换，google calendar排得越来越满
 * 买了第一箱soylent，并在接下来的日子里喝完三箱，cacao的丝滑口感实在是百喝不腻，但要两瓶才能饱啊
-* 被大家带去吃了几次冰球场和医学院的餐车，比食堂好吃多了；大淇带我参观了医学院地下室几十瓶大脑，感觉是个好地方
+* 被大淇带去吃了几次冰球场和医学院的餐车，比食堂好吃多了；大淇带我参观了医学院地下室几十瓶大脑，感觉是个好地方
 * 在港超购入海椒面/白芝麻开始自制熟油辣椒，每个四川人的必备技能，生活质量提高了一大截
 * 每天Nirvana/RH/冷耍 洗脑循环，致郁/治愈；把电脑桌面换成了Kurt，真帅啊（？？？
 
+
+
+![][med]  
+
+<center>Med餐车美名远扬的排骨饭</center>
+
+
+![][brain]  
+
+<center>Med图书馆地底的大脑Collection</center>
 
 <br>
 ### 十一月
@@ -45,6 +71,12 @@ categories: ["misc"]
 * 十一月惯例，睡前听的歌变成了November Rain；『十一月的寒雨中我握不稳一支蜡烛』
 
 <br>
+
+
+![][sea]  
+
+<center>深夜在Kerry Park看到了Seattle最美的夜景</center>
+
 ### 十二月
 ---
 * 找工季收尾：withdraw了大部分OA/电面/onsite；已经决定去俺的梦想之地西雅图，抱着重在参与的心情水水的面了Apple onsite，没想到拿到offer，彻底纠结了；
@@ -53,3 +85,17 @@ categories: ["misc"]
 * 在妈妈远程指导下尝试做了排骨炖藕，成功复制了家中的美味；遂添置一口不锈钢大炖锅，炖一次吃两天
 * 在HHH几个人一起做了两次火锅，比外面便宜又好吃，肥牛放碗里当饭刨的感觉不错
 * 签完offer之后无心准备考试，花了几天预习后结束了final，假期开始了 :-)
+
+
+![][tree]  
+
+<center>圣诞节期间的HHH Common Room</center>
+
+[bkl]: /img/yale_fall_1/bkl.jpg
+[brain]: /img/yale_fall_1/brain.jpg
+[first]: /img/yale_fall_1/first.jpg
+[med]: /img/yale_fall_1/med.jpg
+[resume]: /img/yale_fall_1/resume.jpg
+[sea]: /img/yale_fall_1/sea.jpg
+[tower]: /img/yale_fall_1/tower.jpg
+[tree]: /img/yale_fall_1/tree.jpg

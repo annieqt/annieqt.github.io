@@ -44,7 +44,8 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-  max-width: 100%; }
+  max-width: 100%;
+  vertical-align: middle; }
 
 /**
  * Figures
@@ -53,6 +54,10 @@ figure > img {
   display: block; }
 
 figcaption {
+  font-size: 14px;
+  text-align: center; }
+
+img + em {
   font-size: 14px; }
 
 /**

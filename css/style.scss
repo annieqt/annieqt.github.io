@@ -109,8 +109,10 @@ ul, ol, dl, figure,
  * Images
  */
 img {
+    //height: 400px;
+    //width: auto;
     max-width: 100%;
-    //vertical-align: middle;
+    vertical-align: middle;
 }
 
 
@@ -124,8 +126,12 @@ figure > img {
 
 figcaption {
     font-size: $small-font-size;
+    text-align: center;
 }
 
+img + em {
+    font-size: $small-font-size;
+}
 
 
 /**
