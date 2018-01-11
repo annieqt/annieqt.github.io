@@ -18,11 +18,6 @@ categories: ["misc"]
 
 <center>入住HHH第一天拿到的各种小纪念品 & GSAS Orientation尬聊</center>
 
-
-![][tower]  
-
-<center>New Haven的夏季</center>
-
 <br>
 ### 九月
 ---
@@ -35,6 +30,8 @@ categories: ["misc"]
 ![][resume]
 
 <center>Career Fair前打印了厚厚一叠简历</center>
+
+<br>
 
 
 ![][bkl]
@@ -54,8 +51,10 @@ categories: ["misc"]
 
 
 ![][med]  
-
 <center>Med餐车美名远扬的排骨饭</center>
+
+
+<br>
 
 
 ![][brain]  
@@ -86,6 +85,13 @@ categories: ["misc"]
 * 在HHH几个人一起做了两次火锅，比外面便宜又好吃，肥牛放碗里当饭刨的感觉不错
 * 签完offer之后无心准备考试，花了几天预习后结束了final，假期开始了 :-)
 
+![][pot]  
+
+<center>聚众火锅&外卖</center>
+
+
+<br>
+
 
 ![][tree]  
 
@@ -99,3 +105,4 @@ categories: ["misc"]
 [sea]: /img/yale_fall_1/sea.jpg
 [tower]: /img/yale_fall_1/tower.jpg
 [tree]: /img/yale_fall_1/tree.jpg
+[pot]: /img/yale_fall_1/pot.jpg
