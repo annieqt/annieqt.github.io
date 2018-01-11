@@ -368,19 +368,21 @@ pre {
  * Archive
  */
 .archiveContent{
-  text-align: center;
+  //text-align: center;
 }
 
-.archivePostTitle{
+.archivePostTitle{    
+  display: inline-block;
   font-weight: 400;
   color: #111;
-  text-align: center;
+  //text-align: center;
   text-transform: uppercase;
   letter-spacing: 3px;
   text-indent: 3px;
 }
-.archivePostDate {
-  float: left;
+.archivePostDate {    
+  display: inline-block;
+  min-width: 130px;
   text-transform: uppercase;
   //font-family: "Source Sans Pro";
   font-family: "PT Sans";

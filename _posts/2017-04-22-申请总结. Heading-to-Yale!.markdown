@@ -5,7 +5,7 @@ date:   2017-04-21 14:56:31 +0530
 categories: ["misc"]
 ---
 
-# 基本信息  
+## 基本信息  
 * NJU SE本科，THU SE硕士
 * GPA: 本科88.6(Top 2%)，硕士91.2(Top 7%)
 * TOFEL: 111(L28 + R29 + S26 + W28)
@@ -17,11 +17,11 @@ categories: ["misc"]
 * 获奖经历: 国奖及人民奖学金若干，CSC交换项目全奖  
 
 <br>
-# 申请方向  
+## 申请方向  
 美国CS Master/PhD(只申了推荐老师所在的WUSTL), Distributed and Paralell System/Networking  
 
 <br>
-# 申请结果  
+## 申请结果  
 Accept: CS MS@Yale  
 
 AD: CS MS@Yale, SE MS @CMU SV, MCS@UIUC, CS MS@UT-Austin, CS MS@UW-Madison, CS MS@Columbia, MCS@Rice, CS MS@UCSB, CS MS@USC(Spring)  
@@ -34,7 +34,7 @@ Reject: ECE MS@UIUC, CS MS@Gatech, CS MENG@Cornell, CS MS@UCI, CS MS@Purdue, CS 
 
 
 <br>
-# 申请经验
+## 申请经验
 #### 选校定位
 选校阶段主要参考了地里和自己背景相似同学的申请结果。  
 

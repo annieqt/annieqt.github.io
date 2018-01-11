@@ -7,8 +7,9 @@ layout: page
 <div class="archiveContent">
   <div class="archivePostDate">
   <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
-  <a class='archive_title archivePostTitle' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
   </div>
-  <br>
+  <div class="archivePostTitle">
+  <a class='archive_title' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+  </div>
 </div>
 {% endfor %}
