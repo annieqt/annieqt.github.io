@@ -4,7 +4,6 @@
 @charset "utf-8";
 
 
-
 // Our variables
 $base-font-family: "PT Sans", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
@@ -65,7 +64,14 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
+}
 
 /**
  * Basic styling
@@ -469,8 +475,9 @@ pre {
   text-indent: 2px;
 }
 .postContent {
-  padding-top: 3.5em;
+  padding-top: 1em;
   /*text-align: center;*/
+  padding-bottom: 1em;
 }
 .postDate {
   float: left;
@@ -486,7 +493,7 @@ pre {
   float: right;
 }
 .postTitle {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 400;
   text-align: center;
   text-transform: uppercase;
