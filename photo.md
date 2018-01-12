@@ -44,6 +44,22 @@ images:
     loc: Tsinghua University, Beijing, China
     date: July, 2017
   - show: true
+    image_path: /gallery/59.jpg
+    tn_path: /gallery/tn/59_tn.jpg
+    title: Sterling Memorial Library
+    desc: Yale最大的图书馆SML，可我不喜欢在亮的地方学习~\(≧▽≦)/~
+    short_loc: New Haven, U.S.
+    loc: Sterling Memorial Library, New Haven, U.S.
+    date: Nov, 2017
+  - show: true
+    image_path: /gallery/47.jpg
+    tn_path: /gallery/tn/47_tn.jpg
+    title: Mochtar Riady Library
+    desc: 离校最后一天办手续满校园跑，路过李文正馆，才第一次进去参观。恋恋不舍的走过每一层，下次再回来就是校友了。
+    short_loc: Beijing, China
+    loc: Tsinghua University, Beijing, China
+    date: July, 2017
+  - show: true
     image_path: /gallery/44.jpg
     tn_path: /gallery/tn/44_tn.jpg
     title: Commencement Ceremony
@@ -59,14 +75,6 @@ images:
     short_loc: Beijing, China
     loc: Chengdu Family, Shanghai, China
     date: Apr, 2017
-  - show: true
-    image_path: /gallery/47.jpg
-    tn_path: /gallery/tn/47_tn.jpg
-    title: Mochtar Riady Library
-    desc: 离校最后一天办手续满校园跑，路过李文正馆，才第一次进去参观。恋恋不舍的走过每一层，下次再回来就是校友了。
-    short_loc: Beijing, China
-    loc: Tsinghua University, Beijing, China
-    date: July, 2017
   - show: true
     image_path: /gallery/36.jpg
     tn_path: /gallery/tn/36_tn.jpg
@@ -132,6 +140,14 @@ images:
     loc: Tsinghua University, Beijing, China
     date: Jan, 2016
   - show: true
+    image_path: /gallery/60.jpg
+    tn_path: /gallery/tn/60_tn.jpg
+    title: Oh Me
+    desc: 五道口汉堡王墙上的装饰画，纽约不插电时的Kurt。I can't see the end of me / My whole expanse I cannot see / I formulate infinity / And store it deep inside of me
+    short_loc: Beijing, China
+    loc: Burger King, Wudaokou, Beijing, China
+    date: July, 2015
+  - show: true
     image_path: /gallery/12.jpg
     tn_path: /gallery/tn/12_tn.jpg
     title: A Fresh Morning
@@ -147,6 +163,37 @@ images:
     short_loc: Shanghai, China
     loc: Jumeirah Himalayas Hotel, Shanghai, China
     date: Aug, 2016
+  - show: true
+    image_path: /gallery/53.jpg
+    tn_path: /gallery/tn/53_tn.jpg
+    title: Golden Autumn
+    desc: 去天津大学考托福，老校区在市中心，但校园里人特别少，静静的，阳光很好，秋意正浓。
+    short_loc: Tianjin, China
+    loc: Tianjing University, Tianjin, China
+    date: Oct, 2016
+  - show: true
+    image_path: /gallery/58.jpg
+    tn_path: /gallery/tn/58_tn.jpg
+    title: Skating on Weiming
+    desc: 没有在未名湖上滑过冰，怎么算体验过北京的冬天。
+    short_loc: Beijing, China
+    loc: Weiming Lake, Peking University, Beijing, China
+    date: Jan, 2016
+  - show: true
+    image_path: /gallery/1.jpg
+    tn_path: /gallery/tn/1_tn.jpg
+    title: Reflection
+    desc: 入秋了，没想到荷塘竟然有如此惊艳的一面。湖面飘满落叶，冷峻的天空，犀利的倒影。
+    short_loc: Beijing, China
+    loc: Moonlight over the Lotus Pond, Tsinghua University, Beijing, China
+  - show: true
+    image_path: /gallery/56.jpg
+    tn_path: /gallery/tn/56_tn.jpg
+    title: Back Home
+    desc: 清晨8点的火车抵达成都，空气里满是香肠腊肉食物的香味。拖着行李箱去香槟广场吃了红油水饺，带了几块猫山王榴莲千层。过年了，回家了。
+    short_loc: Chengdu, China
+    loc: Chun Yang Shui Jiao, XiangBin Plaza, Chengdu, China
+    date: Jan, 2016
   - show: true
     image_path: /gallery/24.jpg
     tn_path: /gallery/tn/24_tn.jpg
@@ -171,6 +218,14 @@ images:
     short_loc: HongKong, China
     loc: Wu Kai Sha Youth Camp, HongKong, China
     date: July, 2015
+  - show: true
+    image_path: /gallery/54.jpg
+    tn_path: /gallery/tn/54_tn.jpg
+    title: Go Get Some Pizza 
+    desc: 实习的日子，中午有的时候吃全家的便当，有的时候在对面的小广场吃辣辣的湖南菜和黄焖鸡，再来一杯南洋奶茶。馋必胜客或者日料的时候，便要经过喜马拉雅酒店，在巨大的孔洞间穿行。
+    short_loc: Shanghai, China
+    loc: Shanghai Himalayas Museum, Shanghai, China
+    date: Nov, 2017
   - show: true
     image_path: /gallery/27.jpg
     tn_path: /gallery/tn/27_tn.jpg
@@ -201,7 +256,14 @@ images:
     title: Tourists
     desc: 大三巴牌坊前方游人如织，我只能跑到了侧面的台阶上慢慢往上爬。
     short_loc: Macau, China
-    loc: Ruins of St. Paul, Macau, China
+    loc: Ruins of St. 
+  - show: true
+    image_path: /gallery/20.jpg
+    tn_path: /gallery/tn/20_tn.jpg
+    title: An Unanticipated Sunset
+    desc: 在HK的几天恰碰上书展，几个人一起去了会展中心，临走时看到了壮美的落日。从会展中心出来，一个人去路边的茶餐厅吃了猪扒包和奶茶，夜色里逛完了湾仔。
+    short_loc: HongKong, China
+    loc: HongKong's Convention and Exhibition Center, HongKong, ChinaPaul, Macau, China
     date: July, 2015
   - show: true
     image_path: /gallery/16.jpg
@@ -212,6 +274,13 @@ images:
     loc: Macau Science Center, Macau, China
     date: July, 2015
   - show: true
+    image_path: /gallery/8.jpg
+    tn_path: /gallery/tn/8_tn.jpg
+    title: A Poetic Dusk
+    desc: 黄昏下的情人坡，年轻人的欢声笑语。
+    short_loc: Beijing, China
+    loc: Lover's Slope, Tsinghua University, Beijing, China
+  - show: true
     image_path: /gallery/42.jpg
     tn_path: /gallery/tn/42_tn.jpg
     title: Bird's Nest at Night
@@ -219,26 +288,13 @@ images:
     short_loc: Beijing, China
     loc: The Bird's Nest, Beijing, China
   - show: true
-    image_path: /gallery/20.jpg
-    tn_path: /gallery/tn/20_tn.jpg
-    title: An Unanticipated Sunset
-    desc: 在HK的几天恰碰上书展，几个人一起去了会展中心，临走时看到了壮美的落日。从会展中心出来，一个人去路边的茶餐厅吃了猪扒包和奶茶，夜色里逛完了湾仔。
-    short_loc: HongKong, China
-    loc: HongKong's Convention and Exhibition Center, HongKong, China
-  - show: true
-    image_path: /gallery/1.jpg
-    tn_path: /gallery/tn/1_tn.jpg
-    title: Reflection
-    desc: 入秋了，没想到荷塘竟然有如此惊艳的一面。湖面飘满落叶，冷峻的天空，犀利的倒影。
+    image_path: /gallery/52.jpg
+    tn_path: /gallery/tn/52_tn.jpg
+    title: Happy Birthday
+    desc: 夜晚的五道口很热闹，Bunny Drop总是一个说说话的好去处。
     short_loc: Beijing, China
-    loc: Moonlight over the Lotus Pond, Tsinghua University, Beijing, China
-  - show: true
-    image_path: /gallery/8.jpg
-    tn_path: /gallery/tn/8_tn.jpg
-    title: A Poetic Dusk
-    desc: 黄昏下的情人坡，年轻人的欢声笑语。
-    short_loc: Beijing, China
-    loc: Lover's Slope, Tsinghua University, Beijing, China
+    loc: Bunny Drop, Wudaokou, Beijing, China
+    date: Nov, 2016
   - show: true
     image_path: /gallery/3.jpg
     tn_path: /gallery/tn/3_tn.jpg
@@ -287,7 +343,7 @@ images:
     short_loc: Melbourne, Australia
     loc: Great Ocean Road, Melbourne, Australia
     date: Dec, 2012
-  - show: true
+  - show: false
     image_path: /gallery/7.jpg
     tn_path: /gallery/tn/7_tn.jpg
     title: Lovers
@@ -296,6 +352,14 @@ images:
     loc: Lover's Slope, Tsinghua University, Beijing, China
     date: Apr, 2015
   - show: true
+    image_path: /gallery/55.jpg
+    tn_path: /gallery/tn/55_tn.jpg
+    title: Lobster Feast
+    desc: 作为麻辣诱惑的忠实顾客，被邀请参加试吃龙虾大餐。冰镇/火焰/麻辣/蒜蓉/十三香五种口味，干冰和大火海盐造出的烟雾弥漫和鲜嫩多汁的虾肉，配上自酿啤酒，满足上天了。
+    short_loc: Beijing, China
+    loc: Mala Youhuo (Spice Spirit), Wudaokou, Beijing, China
+    date: May, 2016
+  - show: true
     image_path: /gallery/9.jpg
     tn_path: /gallery/tn/9_tn.jpg
     title: Summer
@@ -303,6 +367,14 @@ images:
     short_loc: Beijing, China
     loc: Forbidden City, Beijing, China
     date: Aug, 2014
+  - show: true
+    image_path: /gallery/57.jpg
+    tn_path: /gallery/tn/57_tn.jpg
+    title: kitten in the grass
+    desc: 我家楼下草丛里的小猫，眼神警觉。
+    short_loc: Sichuan, China
+    loc: Ya'an Middle School, , Sichuan, China
+    date: Feb, 2016
   - show: false
     image_path: /gallery/10.jpg
     tn_path: /gallery/tn/10_tn.jpg
