@@ -7,7 +7,7 @@ images:
     image_path: /gallery/50.jpg
     tn_path: /gallery/tn/50_tn.jpg
     title: Swallowed in the SEA
-    desc: 去西雅图面试时，住的两个酒店都碰巧有这本旅行指南。清晨冰冷的小雨和湿润的迷雾，阳光下波光粼粼的Lake Washington，落地窗外Bellevue的第一场雪，Kerry Park最美的夜景。『我们有的是时间』。SEA。
+    desc: 去西雅图面试时，住的两个酒店都碰巧有这本旅行指南。清晨冰冷的雨水和湿润的迷雾，阳光下波光粼粼的Lake Washington，落地窗外Bellevue的第一场雪，Kerry Park最美的夜景。『我们有的是时间』。SEA。
     short_loc: Seattle, U.S.
     loc: The Arctic Club Seattle - a DoubleTree Hotel, Seattle, U.S.
     date: Nov, 2017
@@ -15,7 +15,7 @@ images:
     image_path: /gallery/51.jpg
     tn_path: /gallery/tn/51_tn.jpg
     title: First Winter Storm 
-    desc: 第一次经历暴风雪，兴奋的跑到外面拍照。呼啸的大风夹杂着大片雪花，几乎没有能见度。一脚踩下去就淹没了膝盖，不小心就会掉到坑里，路上几乎看不到行人。
+    desc: 第一次经历暴风雪，兴奋的跑到外面拍照。呼啸的大风夹杂着大片雪花，能见度很低。一脚踩下去就淹没了膝盖，不小心就会掉到坑里，路上几乎看不到行人。
     short_loc: New Haven, U.S.
     loc: Yale University, New Haven, U.S.
     date: Jan, 2018
