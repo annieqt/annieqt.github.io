@@ -5,8 +5,8 @@
     <description>Everybody's changing and I don't feel the same</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Jan 2018 20:32:57 -0500</pubDate>
-    <lastBuildDate>Sun, 14 Jan 2018 20:32:57 -0500</lastBuildDate>
+    <pubDate>Wed, 24 Jan 2018 01:14:19 -0500</pubDate>
+    <lastBuildDate>Wed, 24 Jan 2018 01:14:19 -0500</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Yale所有的graduate宿舍可以在&lt;a href=&quot;https://housing.yale.edu/graduate-housing&quot;&gt;Graduate Housing&lt;/a&gt;查看。
+&lt;p&gt;Yale所有的graduate宿舍可以在&lt;a href=&quot;https://housing.yale.edu/graduate-housing&quot; class=&quot;article-link&quot;&gt;Graduate Housing&lt;/a&gt;查看。
 一般CS的学生会选择HHH和HGS，住在这两个地方平时上课和生活都比较方便。去年也有学长学姐住Harkness，距离系楼有些远，考虑到步行不一定安全，对CS学生不是特别方便。不过平时有校车也还好，而且Harkness门口有好多好吃的中国餐车啊(¯﹃¯)……也是一大优势。&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -36,7 +36,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;宿舍门口就有工作日的Blue线，可以方便的去到学校很多地方。&lt;/li&gt;
-  &lt;li&gt;出门走穿过Temple St，就能走到Whitney大道。这里有中国学生们赖以生存的香港超市&lt;a href=&quot;https://www.dianping.com/review/393814309&quot;&gt;Hongkong Market-点评&lt;/a&gt;，西安小吃（改名老秦人了）&lt;a href=&quot;https://www.dianping.com/review/393814180&quot;&gt;老秦人-点评&lt;/a&gt;和长城&lt;a href=&quot;https://www.dianping.com/review/393814443&quot;&gt;Great Wall of China-点评&lt;/a&gt;。此外，这条街上还有Dunkin Donuts, Subway等快餐，以及一些小餐厅，Good Nature超市等等。&lt;/li&gt;
+  &lt;li&gt;出门走穿过Temple St，就能走到Whitney大道。这里有中国学生们赖以生存的香港超市&lt;a href=&quot;https://www.dianping.com/review/393814309&quot; class=&quot;article-link&quot;&gt;Hongkong Market-点评&lt;/a&gt;，西安小吃（改名老秦人了）&lt;a href=&quot;https://www.dianping.com/review/393814180&quot; class=&quot;article-link&quot;&gt;老秦人-点评&lt;/a&gt;和长城&lt;a href=&quot;https://www.dianping.com/review/393814443&quot; class=&quot;article-link&quot;&gt;Great Wall of China-点评&lt;/a&gt;。此外，这条街上还有Dunkin Donuts, Subway等快餐，以及一些小餐厅，Good Nature超市等等。&lt;/li&gt;
   &lt;li&gt;从HHH西边的门出来，几步路就能走到17 Hill House正门，来到HillHouse大道。这条路被狄更斯和马克吐温形容为”The most beautiful street in America”，平时上课的许多教学楼，各系的实验室等都在这条路上。
 &lt;img src=&quot;/img/yale_fall_2/hh.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;

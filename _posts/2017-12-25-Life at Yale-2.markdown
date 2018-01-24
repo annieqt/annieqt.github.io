@@ -12,7 +12,7 @@ categories: ["misc"]
 <br>
 
 
-Yale所有的graduate宿舍可以在[Graduate Housing]查看。
+Yale所有的graduate宿舍可以在[Graduate Housing]{:.article-link}查看。
 一般CS的学生会选择HHH和HGS，住在这两个地方平时上课和生活都比较方便。去年也有学长学姐住Harkness，距离系楼有些远，考虑到步行不一定安全，对CS学生不是特别方便。不过平时有校车也还好，而且Harkness门口有好多好吃的中国餐车啊(¯﹃¯)……也是一大优势。
 
 <br>
@@ -35,7 +35,7 @@ HHH坐落在Temple Street上，周围人少而安静，算是远离闹市区，�
 <br>
 
 * 宿舍门口就有工作日的Blue线，可以方便的去到学校很多地方。
-* 出门走穿过Temple St，就能走到Whitney大道。这里有中国学生们赖以生存的香港超市[Hongkong Market-点评]，西安小吃（改名老秦人了）[老秦人-点评]和长城[Great Wall of China-点评]。此外，这条街上还有Dunkin Donuts, Subway等快餐，以及一些小餐厅，Good Nature超市等等。
+* 出门走穿过Temple St，就能走到Whitney大道。这里有中国学生们赖以生存的香港超市[Hongkong Market-点评]{:.article-link}，西安小吃（改名老秦人了）[老秦人-点评]{:.article-link}和长城[Great Wall of China-点评]{:.article-link}。此外，这条街上还有Dunkin Donuts, Subway等快餐，以及一些小餐厅，Good Nature超市等等。
 * 从HHH西边的门出来，几步路就能走到17 Hill House正门，来到HillHouse大道。这条路被狄更斯和马克吐温形容为"The most beautiful street in America"，平时上课的许多教学楼，各系的实验室等都在这条路上。
 ![][hh]  
 
