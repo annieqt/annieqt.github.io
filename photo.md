@@ -14,7 +14,7 @@ images:
   - show: true
     image_path: /gallery/63.jpg
     tn_path: /gallery/tn/63_tn.jpg
-    title: The Great Dome And Ducks
+    title: The Great Dome And The Ducks
     desc: 没想到MIT著名的大穹顶竟然正对着查尔斯河。午后的阳光洒在河上，波光粼粼，让人心旷神怡。草坪上两只时不时抬起头警觉观察四周的鸭子很是可爱。
     short_loc: Boston, U.S.
     loc: MIT, Boston, U.S.
