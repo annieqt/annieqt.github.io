@@ -4,6 +4,38 @@ title: Photo
 permalink: /photo/
 images:
   - show: true
+    image_path: /gallery/64.jpg
+    tn_path: /gallery/tn/64_tn.jpg
+    title: A Warm Winter
+    desc: 冬天快要结束了，纽黑文的冬天似乎还不及北京的冬天让人感到寒冷。
+    short_loc: New Haven, U.S.
+    loc: Beinecke Rare Book & Manuscript Library, Yale University, New Haven, U.S.
+    date: Feb, 2012
+  - show: true
+    image_path: /gallery/63.jpg
+    tn_path: /gallery/tn/63_tn.jpg
+    title: The Great Dome And Ducks
+    desc: 没想到MIT著名的大穹顶竟然正对着查尔斯河。午后的阳光洒在河上，波光粼粼，让人心旷神怡。草坪上两只时不时抬起头警觉观察四周的鸭子很是可爱。
+    short_loc: Boston, U.S.
+    loc: MIT, Boston, U.S.
+    date: March, 2018
+  - show: true
+    image_path: /gallery/61.jpg
+    tn_path: /gallery/tn/61_tn.jpg
+    title: Boston By The Sea
+    desc: 大雪过后的波士顿海边美极了。白白的积雪，温暖的阳光，冰冷的海风，远处是巨大的绿色游轮，坐在长椅上看着大海舍不得离开。
+    short_loc: Boston, U.S.
+    loc: Boston Harbor, Boston, U.S.
+    date: March, 2018
+  - show: true
+    image_path: /gallery/62.jpg
+    tn_path: /gallery/tn/62_tn.jpg
+    title: A Party Of Drunken Robots
+    desc: MIT著名的32号楼，一大堆颜色鲜艳形状不规则的几何体歪歪扭扭的搭在一起，果真像是一群喝醉机器人的狂欢派对。
+    short_loc: Boston, U.S.
+    loc: The Ray and Maria Stata Center for Computer, Information, and Intelligence Sciences, Building 32, Boston, U.S.
+    date: March, 2018
+  - show: true
     image_path: /gallery/50.jpg
     tn_path: /gallery/tn/50_tn.jpg
     title: Swallowed in the SEA
