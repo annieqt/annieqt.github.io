@@ -14,7 +14,7 @@ SE@NJU --> SE@THU --> CS@Yale
 <br>
 # Music & Bands | 音乐 
 Die-Hard Music Lover  
-Jay Chou | Linkin Park | Radiohead | Coldplay | Nirvana | Jason Mraz | Muse | Evanescence | Keane | Sum 41 | Budapest | Eminem | NightWish | Oasis | HIM | Travis | Thirteen Senses 
+Jay Chou | 窦唯 | Linkin Park | Radiohead | Coldplay | Nirvana | Jason Mraz | Muse | Evanescence | Keane | Sum 41 | Budapest | Eminem | NightWish | Oasis | HIM | Travis | Thirteen Senses 
 
 <br>
 # iPhoneography | 摄影
