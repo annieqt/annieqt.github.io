@@ -4,13 +4,45 @@ title: Photo
 permalink: /photo/
 images:
   - show: true
+    image_path: /gallery/67.jpg
+    tn_path: /gallery/tn/67_tn.jpg
+    title: Thousand Islands
+    desc: 毕业旅行第一站——位于纽约州内的千岛湖，沿着St. Lawrence River散布着一千多座大小不一的岛屿，甚是壮观。
+    short_loc: Thousand Islands, U.S.
+    loc: Thousand Islands, New York, U.S.
+    date: May, 2018
+  - show: true
+    image_path: /gallery/65.jpg
+    tn_path: /gallery/tn/65_tn.jpg
+    title: Niagara On The Lake
+    desc: 早晨9点的Niagara湖边有些冷，游客很少。眼前是一幅让人心神宁静的画面。加拿大就在湖的对面。
+    short_loc: Niagara Falls, U.S.
+    loc: Niagara Falls, New York, U.S.
+    date: May, 2018
+  - show: true
+    image_path: /gallery/71.jpg
+    tn_path: /gallery/tn/71_tn.jpg
+    title: Boldt Castle
+    desc: 千岛湖中最有名的Boldt Castle的一角。
+    short_loc: Thousand Islands, U.S.
+    loc: Thousand Islands, New York, U.S.
+    date: May, 2018
+  - show: true
+    image_path: /gallery/68.jpg
+    tn_path: /gallery/tn/68_tn.jpg
+    title: My Spot
+    desc: 不宅宿舍的时候，这是在bass最喜欢的位置。相比小黑屋空气更好，能嗅到他人的气息，又不用担心被打扰。一个人抱着一杯咖啡就可以安静的坐一下午。
+    short_loc: New Haven, U.S.
+    loc: Anne T. and Robert M. Bass Library, Yale University, New Haven, U.S.
+    date: May, 2018
+  - show: true
     image_path: /gallery/64.jpg
     tn_path: /gallery/tn/64_tn.jpg
     title: A Warm Winter
     desc: 冬天快要结束了，纽黑文的冬天似乎还不及北京的冬天让人感到寒冷。
     short_loc: New Haven, U.S.
     loc: Beinecke Rare Book & Manuscript Library, Yale University, New Haven, U.S.
-    date: Feb, 2012
+    date: Feb, 2018
   - show: true
     image_path: /gallery/63.jpg
     tn_path: /gallery/tn/63_tn.jpg

@@ -40,6 +40,9 @@ Enjoy writting food reviews on <a class="dianping" href="http://www.dianping.com
 	    <li><a class="wangyiyunyinyue" target="_blank" href="https://music.163.com/#/user/home?id=52467665"><i
 	        class="fd icon-wangyiyunyinyue"></i></a>
 	    </li> 
+	    <li><a class="facebook" target="_blank" href="https://www.facebook.com/tian.wang.3532"><i
+	        class="fa fa-facebook"></i></a>
+	    </li>
 	    <li><a class="github" target="_blank" href="https://github.com/annieqt"><i class="fa fa-github glyph"></i></a>
 	    </li>
 	    <li><a class="leetcode" target="_blank" href="https://discuss.leetcode.com/user/annieqt">
@@ -47,9 +50,7 @@ Enjoy writting food reviews on <a class="dianping" href="http://www.dianping.com
 	    </li>
 	    <li><a class="weibo" target="_blank" href="http://weibo.com/u/1320541007"><i class="fa fa-weibo"></i></a>
         </li>
-	    <li><a class="facebook" target="_blank" href="https://www.facebook.com/tian.wang.3532"><i
-	        class="fa fa-facebook"></i></a>
-	    </li>
+	    
 	    
 	</ul>
 </div>
