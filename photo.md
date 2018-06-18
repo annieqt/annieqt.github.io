@@ -15,7 +15,7 @@ images:
     image_path: /gallery/65.jpg
     tn_path: /gallery/tn/65_tn.jpg
     title: Niagara On The Lake
-    desc: 早晨9点的Niagara湖边有些冷，游客很少。眼前是一幅让人心神宁静的画面。加拿大就在湖的对面。
+    desc: 早晨9点的Niagara湖边有些冷，游客很少。眼前是一幅让人心神宁静的画面。湖的对面就是加拿大。
     short_loc: Niagara Falls, U.S.
     loc: Niagara Falls, New York, U.S.
     date: May, 2018
