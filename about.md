@@ -9,7 +9,9 @@ Identify me by the Red Cat! 看见红猫那就是我w
 
 <br>
 # Code | 码
-SE@NJU --> SE@THU --> CS@Yale
+SDE@Apple NYC &nbsp; (NEW YORK IS AWESOME!)
+
+SE@NJU --> SE@THU --> CS@Yale 
 
 <br>
 # Music & Bands | 音乐 
