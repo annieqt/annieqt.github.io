@@ -4,13 +4,37 @@ title: Photo
 permalink: /photo/
 images:
   - show: true
-    image_path: /gallery/67.jpg
-    tn_path: /gallery/tn/67_tn.jpg
-    title: Thousand Islands
-    desc: 毕业旅行第一站——位于纽约州内的千岛湖，沿着St. Lawrence River散布着一千多座大小不一的岛屿，甚是壮观。
-    short_loc: Thousand Islands, U.S.
-    loc: Thousand Islands, New York, U.S.
+    image_path: /gallery/72.jpg
+    tn_path: /gallery/tn/72_tn.jpg
+    title: Wish You Were Here
+    desc: 住在时代广场的日子快乐又充实。每天看着世界各地的游客疯狂自拍，却丝毫未觉得厌烦。在人群之中穿行而不会被任何人注意和评价的感觉实在是太棒了。『NEW YORK IS AWESOME』。
+    short_loc: New York, U.S.
+    loc: Times Square, New York, U.S.
+    date: August, 2018
+  - show: true
+    image_path: /gallery/73.jpg
+    tn_path: /gallery/tn/73_tn.jpg
+    title: A Weekend Walk
+    desc: 每到周末总会出门暴走，希望这一年能用双脚踏遍曼哈顿的每一条街。The High Line Park是用曼岛上废旧铁路改造成的空中带状公园，一路可以各种建筑中穿行，鸟瞰沿路街景，实在是散步的好去处。
+    short_loc: New York, U.S.
+    loc: The High Line Park, New York, U.S.
+    date: August, 2018
+  - show: true
+    image_path: /gallery/74.jpg
+    tn_path: /gallery/tn/74_tn.jpg
+    title: The MET
+    desc: 大都会博物馆名不虚传，走了一下午腰酸背痛，也只看了一小部分展区。
+    short_loc: New York, U.S. 
+    loc: The Metropolitan Museum of Art, New York, U.S. 
     date: May, 2018
+  - show: true
+    image_path: /gallery/75.jpg
+    tn_path: /gallery/tn/75_tn.jpg
+    title: California Dreaming
+    desc: 在加州Orientation的两周每天都很开心。见了很多好几年没见的朋友，一起吃了好多顿火锅，在鲜芋仙聊到凌晨直到被赶出来，温馨的Residence Inn，Philz的薄荷咖啡...期待着再回去。
+    short_loc: Cupertino, U.S.
+    loc: Main Street Cupertino, California, U.S.
+    date: July, 2018
   - show: true
     image_path: /gallery/65.jpg
     tn_path: /gallery/tn/65_tn.jpg
@@ -18,6 +42,14 @@ images:
     desc: 早晨9点的Niagara湖边有些冷，游客很少。眼前是一幅让人心神宁静的画面。湖的对面就是加拿大。
     short_loc: Niagara Falls, U.S.
     loc: Niagara Falls, New York, U.S.
+    date: May, 2018
+  - show: true
+    image_path: /gallery/67.jpg
+    tn_path: /gallery/tn/67_tn.jpg
+    title: Thousand Islands
+    desc: 毕业旅行第一站——位于纽约州内的千岛湖，沿着St. Lawrence River散布着一千多座大小不一的岛屿，甚是壮观。
+    short_loc: Thousand Islands, U.S.
+    loc: Thousand Islands, New York, U.S.
     date: May, 2018
   - show: true
     image_path: /gallery/71.jpg
@@ -207,7 +239,7 @@ images:
     image_path: /gallery/60.jpg
     tn_path: /gallery/tn/60_tn.jpg
     title: Oh Me
-    desc: 五道口汉堡王墙上的装饰画，纽约不插电时的Kurt。I can't see the end of me / My whole expanse I cannot see / I formulate infinity / And store it deep inside of me
+    desc: 五道口汉堡王墙上的装饰画，纽约不插电。I can't see the end of me / My whole expanse I cannot see / I formulate infinity / And store it deep inside of me
     short_loc: Beijing, China
     loc: Burger King, Wudaokou, Beijing, China
     date: July, 2015
