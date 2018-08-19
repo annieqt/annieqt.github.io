@@ -4,6 +4,8 @@ title:  "Life at Yale-秋季学期流水账 (Part 1)"
 date:   2017-12-23 02:49:31 +0530
 categories: ["misc"]
 --- 
+![][welcome]  
+
 期末考试结束了，在Yale的日子过去了一半。虽然大家都劝我春季再继续面FLAG，但自己刷题能力太渣，也想好好享受剩下半年校园生活，于是决定接了Apple offer。圣诞假期有了很多属于自己的时间，可以好好补补电影和小说，顺便写一篇长长长长的流水账纪念这小半年的生活。  
 
 
@@ -97,6 +99,7 @@ categories: ["misc"]
 
 <center>圣诞节期间的HHH Common Room</center>
 
+[welcome]: /img/yale_fall_1/welcome.jpg
 [bkl]: /img/yale_fall_1/bkl.jpg
 [brain]: /img/yale_fall_1/brain.jpg
 [first]: /img/yale_fall_1/first.jpg

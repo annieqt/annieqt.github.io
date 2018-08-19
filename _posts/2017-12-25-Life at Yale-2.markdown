@@ -5,6 +5,11 @@ date:   2017-12-24 02:49:31 +0530
 categories: ["misc"]
 --- 
 
+![][hhh]  
+
+<center>暴风雪后的HHH正门</center>
+
+
 ## Helen Hadley Hall (HHH | 3H)
 个人觉得，Yale的一大优势就是大部分graduate学生都能够申请到校内宿舍，对于就读9个月项目的学生来说，方便又省心。住宿舍的好处多多，首要的无疑是相对安全，有宿管有门禁；其次离主要的学习场所如图书馆，教学楼等都很近；基本的家具都有，不用额外添置；当然，还能结识来自各个国家不同专业的同学们，不会太孤单。  
 
@@ -26,13 +31,6 @@ Yale所有的graduate宿舍可以在[Graduate Housing]{:.article-link}查看。
 ### 地理位置
 HHH坐落在Temple Street上，周围人少而安静，算是远离闹市区，很安全。
 
-
-![][hhh]  
-
-<center>暴风雪后的HHH正门</center>
-
-
-<br>
 
 * 宿舍门口就有工作日的Blue线，可以方便的去到学校很多地方。
 * 出门走穿过Temple St，就能走到Whitney大道。这里有中国学生们赖以生存的香港超市[Hongkong Market-点评]{:.article-link}，西安小吃（改名老秦人了）[老秦人-点评]{:.article-link}和长城[Great Wall of China-点评]{:.article-link}。此外，这条街上还有Dunkin Donuts, Subway等快餐，以及一些小餐厅，Good Nature超市等等。
