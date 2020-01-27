@@ -15,7 +15,7 @@ I share interesting photos taken by my iPhone.
 Click on a photo and read the story behind!  
 ![][detail]
 
-[1]: http://tianwang.gift
+[1]: https://annieqt.github.io/
 
 [article]: ./preview/1.jpg
 [photo]: ./preview/2.jpg
