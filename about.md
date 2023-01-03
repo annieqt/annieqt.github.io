@@ -16,7 +16,7 @@ SE@NJU --> SE@THU --> CS@Yale
 <br>
 # Music & Bands | 音乐 
 Die-Hard Music Lover  
-周杰伦 Jay Chou | 窦唯 Dou Wei | Linkin Park | Radiohead | 福禄寿 FloruitShow | Coldplay | Nirvana | Jason Mraz | Muse | Evanescence | Keane | Sum 41 | Budapest | Eminem | NightWish | Oasis | HIM | Travis | Thirteen Senses 
+常田大希 Daiki Tsuneta | 周杰伦 Jay Chou | 窦唯 Dou Wei | Linkin Park | Radiohead | 福禄寿 FloruitShow | Coldplay | Nirvana | Jason Mraz | Muse | Evanescence | Keane | Sum 41 | Budapest | Eminem | NightWish | Oasis | HIM | Travis | Thirteen Senses 
 
 <br>
 # iPhoneography | 摄影
