@@ -56,17 +56,6 @@ Enjoy writting food reviews on <a class="dianping" href="http://www.dianping.com
 	    
 	</ul>
 </div>
-
-<br>
-# Friends' Links | 友情链接  
-Adorable Boci : [(๑•́ ₃ •̀๑)] [1]  
-Gardenia: [Carpe Diem][2]  
-
-[1]:http://bichengluo.me
-[2]:http://nanshu.wang
-
-
-<br>
 <div>
   {% include disqus.html %}               
 </div>
