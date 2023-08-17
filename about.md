@@ -56,6 +56,3 @@ Enjoy writting food reviews on <a class="dianping" href="http://www.dianping.com
 	    
 	</ul>
 </div>
-<div>
-  {% include disqus.html %}               
-</div>
