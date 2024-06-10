@@ -29,13 +29,13 @@ To be a better Dianpinger  <a class="dianping" href="http://www.dianping.com/mem
 	    <li><a class="wangyiyunyinyue" target="_blank" href="https://music.163.com/#/user/home?id=52467665"><i
 	        class="fd icon-wangyiyunyinyue"></i></a>
 	    </li> 
+	    <li><a class="spotify" target="_blank" href="https://open.spotify.com/user/21anwjhm6fqlisbjquni4zqpa?si=8bf1c42ad3b44e58">
+	    <i class="fa fa-spotify"></i></a>
+	    </li>
 	    <li><a class="github" target="_blank" href="https://github.com/annieqt"><i class="fa fa-github glyph"></i></a>
 	    </li>
 	    <li><a class="leetcode" target="_blank" href="https://discuss.leetcode.com/user/annieqt">
 	    <i class="fa fa-code"></i></a>
 	    </li>
 	</ul>
-</div>
-<div>
-  {% include disqus.html %}               
 </div>
